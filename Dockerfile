@@ -84,6 +84,7 @@ RUN rm -f /etc/apt/sources.list && \
 	nginx \
 	openvpn \
 	ffmpeg \
+	speedtest-cli \
 	pluma && \
 #Fluxbox
 	apt-get install -y /app/.vubuntu/assets/packages/fluxbox.deb && \
