@@ -1,4 +1,4 @@
-FROM vital987/vubuntu:latest
+FROM alexwcrafter/vbuntu:latest
 
 ENV 	DEBIAN_FRONTEND=noninteractive \
 #VNC Server Password
